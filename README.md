@@ -1,4 +1,4 @@
-# 📸 Post Your Image
+
 
 > A modern full-stack image sharing application where users can upload images with captions and view a feed of community posts.
 
